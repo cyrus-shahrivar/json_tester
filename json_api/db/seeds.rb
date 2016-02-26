@@ -5,3 +5,8 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+JsonTester.create(name: 'Cyrus', happy: true)
+JsonTester.create(name: 'Zeus', happy: true)
+JsonTester.create(name: 'Courtney', happy: true)
+JsonTester.create(name: 'Rats', happy: true)
